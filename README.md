@@ -8,7 +8,7 @@ Hands-on software developer.
 * Open source libraries
 
 #### How were my open source projects got started ?
-During development at my company work, we needed common generic implementation in for a few items, searched online, and could not find simple ones which fits the requirements. Implemented it myself, and published it as open source.
+During development at my company work, we needed common generic implementation in for a few items, searched online, and could not find simple ones which fits the requirements. Implemented it myself, and published it as open source. Refer to the pinned repositories for details.
 
 <!--
 **liran2000/liran2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
