@@ -2,8 +2,7 @@ Hands-on software developer.
 
 * Backend development
 * Problem solving
-* Performance
-* Concurrency
+* Performance, Concurrency
 * Distributed systems & micro-services
 * Open source libraries
 
