@@ -4,7 +4,7 @@ Hands-on software developer.
 * Problem solving
 * Performance
 * Concurrency
-* Distributed systems
+* Distributed systems & micro-services
 * Open source libraries
 
 #### How were my open source projects got started ?
