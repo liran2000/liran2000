@@ -16,6 +16,9 @@ Hands-on software developer.
 
 Some done due to enhanements/bugs found needed for my job.
 
+#### Why were my open source contributions got started ?
+During development at my company work, found some things that can be addressed at some open source projects we use.
+
 #### How were my open source projects got started ?
 During development at my company work, we needed common generic implementation in for a few items, searched online, and could not find simple ones which fits the requirements. Implemented it myself, and published it as open source. Refer to the pinned repositories for details.
 
