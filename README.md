@@ -6,6 +6,11 @@ Hands-on software developer.
 * Distributed systems & micro-services
 * Open source libraries
 
+#### Projects
+* [commons-cluster](https://github.com/CiscoSE/commons-cluster#commons-cluster)
+* [commons-processing](https://github.com/CiscoSE/commons-processing#commons-processing)
+* [commons-networking](https://github.com/CiscoSE/commons-networking#commons-networking)
+
 #### Some notable contributions
 * [GO Feature Flag](https://gofeatureflag.org) [OpenFeature](https://openfeature.dev) provider - [feat: add cache](https://github.com/open-feature/java-sdk-contrib/pull/369)
 * [OpenFeature](https://openfeature.dev) SDK - [feat: In-memory provider](https://github.com/open-feature/java-sdk/pull/546)
@@ -13,6 +18,10 @@ Hands-on software developer.
 * [Apache Curator](https://curator.apache.org) - [feat: Configurable ZookeeperFactory by ZKClientConfig](https://github.com/apache/curator/commit/414a4085c0228c5c4f960c43fb79d06d680eeea4)
 * [rotating-fos](https://github.com/vy/rotating-fos#usage) - [feat: Add rolling scheme via maxBackupCount](https://github.com/vy/rotating-fos/commit/8b07a0c5de3524f9f4e9cda3237556bbe2532447)
 * [zkBox](http://www.zkbox.com) - [feat: Java Client](http://www.zkbox.com/developers/client/java)
+
+##### Docs contributions
+* [spring-retry](https://github.com/spring-projects/spring-retry) - [random - document as Jitter](https://github.com/spring-projects/spring-retry/pull/376)
+* [Apache Commons IO](https://commons.apache.org/proper/commons-io/) - [FileUtils#deleteDirectory(File) exception Javadoc inaccurate update](https://github.com/apache/commons-io/pull/245)
 
 Some done due to enhanements/bugs found needed for my job.
 
