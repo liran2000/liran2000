@@ -1,0 +1,7 @@
+featureFlagEnabled:
+  variations:
+    default_var: true
+    false_var: false
+    true_var: true
+  defaultRule:
+    variation: default_var
