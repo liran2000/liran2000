@@ -12,6 +12,11 @@ Hands-on software developer.
 * [commons-networking](https://github.com/CiscoSE/commons-networking#commons-networking)
 
 #### Some notable contributions
+* [Unleash](https://www.getunleash.io/) [OpenFeature](https://openfeature.dev) provider - [feat: Add Unleash provider](https://github.com/open-feature/go-sdk-contrib/pull/338)
+* [Unleash](https://www.getunleash.io/) [OpenFeature](https://openfeature.dev) provider - [feat: Add Unleash provider](https://github.com/open-feature/java-sdk-contrib/pull/424)
+* [Harness](https://developer.harness.io/docs/feature-flags/) [OpenFeature](https://openfeature.dev) provider - [feat: Add Harness provider](https://github.com/open-feature/go-sdk-contrib/pull/348)
+* [Flipt](https://www.flipt.io/) [OpenFeature](https://openfeature.dev) provider - [feat: Add Flipt provider](https://github.com/open-feature/java-sdk-contrib/pull/461)
+* [ConfigCat](https://configcat.com/) [OpenFeature](https://openfeature.dev) provider - [feat: Add ConfigCat provider](https://github.com/open-feature/java-sdk-contrib/pull/521)
 * [GO Feature Flag](https://gofeatureflag.org) [OpenFeature](https://openfeature.dev) provider - [feat: add cache](https://github.com/open-feature/java-sdk-contrib/pull/369)
 * [OpenFeature](https://openfeature.dev) SDK - [feat: In-memory provider](https://github.com/open-feature/java-sdk/pull/546)
 * [Spring Boot Admin](https://github.com/codecentric/spring-boot-admin#spring-boot-admin-by-codecentric) - [fix: Retry mechanism without delay causing failures](https://github.com/codecentric/spring-boot-admin/pull/2106)
