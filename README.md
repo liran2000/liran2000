@@ -12,6 +12,7 @@ Hands-on software developer.
 * [commons-networking](https://github.com/CiscoSE/commons-networking#commons-networking)
 
 #### Some notable contributions
+* [flagd](https://flagd.dev/) [OpenFeature](https://openfeature.dev) http connector - [feat: add http connector for In-process resolver](https://github.com/open-feature/java-sdk-contrib/pull/1299)
 * [Unleash](https://www.getunleash.io/) [OpenFeature](https://openfeature.dev) GO provider - [feat: Add Unleash provider](https://github.com/open-feature/go-sdk-contrib/pull/338)
 * [Unleash](https://www.getunleash.io/) [OpenFeature](https://openfeature.dev) Java provider - [feat: Add Unleash provider](https://github.com/open-feature/java-sdk-contrib/pull/424)
 * [Harness](https://developer.harness.io/docs/feature-flags/) [OpenFeature](https://openfeature.dev) GO provider - [feat: Add Harness provider](https://github.com/open-feature/go-sdk-contrib/pull/348)
@@ -24,6 +25,7 @@ Hands-on software developer.
 * [OpenFeature](https://openfeature.dev) Java SDK contrib - [feat: multi-provider](https://github.com/open-feature/java-sdk-contrib/pull/1028)
 * [OpenFeature](https://openfeature.dev) GO SDK - [feat: add logging hook, rm logging from evaluation](https://github.com/open-feature/go-sdk/pull/289)
 * [OpenFeature](https://openfeature.dev) Java SDK - [feat: In-memory provider](https://github.com/open-feature/java-sdk/pull/546)
+* [OpenFeature](https://openfeature.dev) Java SDK - [feat: add telemetry helper utils](https://github.com/open-feature/java-sdk/pull/1346)
 * [Spring Boot Admin](https://github.com/codecentric/spring-boot-admin#spring-boot-admin-by-codecentric) - [fix: Retry mechanism without delay causing failures](https://github.com/codecentric/spring-boot-admin/pull/2106)
 * [Apache Curator](https://curator.apache.org) - [feat: Configurable ZookeeperFactory by ZKClientConfig](https://github.com/apache/curator/commit/414a4085c0228c5c4f960c43fb79d06d680eeea4)
 * [rotating-fos](https://github.com/vy/rotating-fos#usage) - [feat: Add rolling scheme via maxBackupCount](https://github.com/vy/rotating-fos/commit/8b07a0c5de3524f9f4e9cda3237556bbe2532447)
